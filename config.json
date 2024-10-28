@@ -1,0 +1,7 @@
+{
+    "showCpuUsage": true,
+    "showMemoryUsage": true,
+    "showSystemUptime": true,
+    "showNodeUptime": true,
+    "secondsInterval": 5
+  }
